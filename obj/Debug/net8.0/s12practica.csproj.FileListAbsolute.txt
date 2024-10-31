@@ -1,0 +1,14 @@
+C:\Users\UPN\source\repos\s12practica\bin\Debug\net8.0\s12practica.exe
+C:\Users\UPN\source\repos\s12practica\bin\Debug\net8.0\s12practica.deps.json
+C:\Users\UPN\source\repos\s12practica\bin\Debug\net8.0\s12practica.runtimeconfig.json
+C:\Users\UPN\source\repos\s12practica\bin\Debug\net8.0\s12practica.dll
+C:\Users\UPN\source\repos\s12practica\bin\Debug\net8.0\s12practica.pdb
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.AssemblyInfoInputs.cache
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.AssemblyInfo.cs
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.dll
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\refint\s12practica.dll
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.pdb
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\s12practica.genruntimeconfig.cache
+C:\Users\UPN\source\repos\s12practica\obj\Debug\net8.0\ref\s12practica.dll
